@@ -57,5 +57,5 @@ I'm a passionate **Software Developer** with over 2 years of industry experience
 ---
 
 ## 🤝 Let's Connect!
-- Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vrutik-parmar-9261821b8).
-- Check out my repositories on [GitHub](https://github.com/Vrutik21).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrutik-parmar-9261821b8)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrutikparmar)
