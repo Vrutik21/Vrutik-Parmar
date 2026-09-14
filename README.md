@@ -32,22 +32,24 @@ Java · Spring Boot · Python · C/C++ · SQL
 
 ## 💼 What I've Worked On
 
-### Insight Advantage Inc.
+### 🏗️ Enterprise Platforms & Workflow Automation
+- Built full-stack platforms supporting complex case management, ERP, healthcare, and financial workflows.
+- Designed configurable workflows, dashboards, reporting, task automation, document management, RBAC, and large-data interfaces.
+- Worked across the stack with React, Next.js, TypeScript, NestJS, Prisma, PostgreSQL, MongoDB, and MySQL.
 
-**Software Developer**
+### ⚙️ Backend & Distributed Systems
+- Built modular REST APIs, microservices, ETL-style pipelines, and event-driven workflows.
+- Worked with AWS SQS/SNS for asynchronous processing and PostgreSQL indexing for scalable search and reporting.
+- Integrated QuickBooks, Twilio, Microsoft Graph, healthcare partner APIs, and external service platforms.
 
-* Built and currently own a full-stack case management platform using React, Next.js, TypeScript, NestJS, Prisma, and PostgreSQL.
-* Developed configurable workflows, dashboards, reporting, task automation, document management, RBAC, and SMS functionality.
-* Integrated Microsoft Graph, Teams, SharePoint, Outlook, Power Automate, Twilio, and external partner APIs.
-* Migrated the platform to a Canada-resident Azure architecture using Docker and GitHub Actions CI/CD.
+### 🎨 Frontend & Product Engineering
+- Developed responsive applications with React, Next.js, Redux, TanStack Query, React Hook Form, Material UI, and Tailwind CSS.
+- Built reusable component systems with Turborepo and Storybook for consistent, maintainable interfaces.
 
-### Hexaware Technologies
-
-**Software Developer**
-
-* Built healthcare applications using React, Next.js, Redux, Turborepo, and Storybook, including laboratory and pharmacy integrations.
-* Developed financial analytics systems using Node.js, MySQL, QuickBooks APIs, and ETL-style pipelines.
-* Built ERP backend services using NestJS, MongoDB, Mongoose, AWS SQS, and SNS.
+### ☁️ Cloud & DevOps
+- Deployed production applications across Azure, AWS, Vercel, and Railway.
+- Built Docker-based environments and GitHub Actions CI/CD pipelines for automated application releases.
+- Migrated a production full-stack platform to Azure using App Service, Container Registry, and Azure Database for PostgreSQL.
 
 ---
 
